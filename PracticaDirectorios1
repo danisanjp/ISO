@@ -1,4 +1,7 @@
-1. Música Electrónica
+Crea el siguiente arbol de directorios usando la consola de linux
+Indica cada comando utilizado
+
+Música Electrónica
    ├── Techno
    ├── House
    │   ├── Deep House
@@ -11,25 +14,3 @@
    └── Drum and Bass
        ├── Liquid Drum and Bass
        └── Jungle
-
-2. Rock
-   ├── Rock Clásico
-   ├── Rock Alternativo
-   │   ├── Indie Rock
-   │   └── Grunge
-   ├── Metal
-   │   ├── Heavy Metal
-   │   ├── Thrash Metal
-   │   └── Power Metal
-   └── Punk
-       ├── Punk Rock
-       └── Pop Punk
-
-3. Hip Hop
-   ├── Rap
-   │   ├── Gangsta Rap
-   │   ├── Conscious Rap
-   │   └── Trap
-   └── R&B
-       ├── Soul
-       └── Funk
