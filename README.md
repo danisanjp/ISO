@@ -18,11 +18,7 @@ john --test
 
     la herramienta empezará a trabajar:
 
-    ![image](https://github.com/danisanjp/ISO/assets/146337705/d156ca59-992b-4d3c-b090-ed60ece7eabd)
-
      Esperamoa a que finalice, este proceso puede tardar mas o menos tiempo dependiendo de la complejidad del password.
-
-     ![image](https://github.com/danisanjp/ISO/assets/146337705/167070a5-3cc4-4772-a98f-ee7d6244a698)
 
 3. Nuestra contraseña está crackeada. Para verla simplemente debemos utilizar el comando –show de la siguiente manera:
 
