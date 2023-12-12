@@ -1,3 +1,3 @@
-#!/bin7bash
+#!/bin/bash
 
 echo "hola"
