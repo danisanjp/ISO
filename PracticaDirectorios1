@@ -1,0 +1,35 @@
+1. Música Electrónica
+   ├── Techno
+   ├── House
+   │   ├── Deep House
+   │   ├── Tech House
+   │   └── Progressive House
+   ├── Trance
+   │   ├── Progressive Trance
+   │   ├── Uplifting Trance
+   │   └── Psytrance
+   └── Drum and Bass
+       ├── Liquid Drum and Bass
+       └── Jungle
+
+2. Rock
+   ├── Rock Clásico
+   ├── Rock Alternativo
+   │   ├── Indie Rock
+   │   └── Grunge
+   ├── Metal
+   │   ├── Heavy Metal
+   │   ├── Thrash Metal
+   │   └── Power Metal
+   └── Punk
+       ├── Punk Rock
+       └── Pop Punk
+
+3. Hip Hop
+   ├── Rap
+   │   ├── Gangsta Rap
+   │   ├── Conscious Rap
+   │   └── Trap
+   └── R&B
+       ├── Soul
+       └── Funk
